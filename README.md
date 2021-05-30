@@ -1,2 +1,0 @@
-# vertex_cover
-Graph
